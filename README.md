@@ -10,4 +10,4 @@ A simple chatbot built using Python that responds based on keywords like hello, 
 2. Type messages like hello, help, bye
 
     ## Output
-    ![Output](Screenshot_2026-...png)# CODSOFT_TASK1
+    ![Output](Screenshot_2026-...png)
