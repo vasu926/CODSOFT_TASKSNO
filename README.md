@@ -9,5 +9,5 @@ A simple chatbot built using Python that responds based on keywords like hello, 
 1. Run the chatbot.py file
 2. Type messages like hello, help, bye
 
-## Output
-![Output](output.png)# CODSOFT_TASK1
+    ## Output
+    ![Output](Screenshot_2026-...png)# CODSOFT_TASK1
